@@ -4,26 +4,26 @@ const BasicCV = () => {
   return (
     <div className="max-w-2xl mx-auto p-4 bg-white shadow-lg rounded-lg">
       <header className="text-center mb-6">
-        <h1 className="text-3xl font-bold text-gray-800">Juan Pérez</h1>
+        <h1 className="text-3xl font-bold text-gray-800">Victor Cepeda</h1>
         <p className="text-gray-600">Desarrollador Web</p>
       </header>
 
       <section className="mb-6">
         <h2 className="text-xl font-semibold text-gray-700 mb-2">Información de Contacto</h2>
         <ul className="list-disc list-inside text-gray-600">
-          <li>Email: juan.perez@email.com</li>
-          <li>Teléfono: +34 123 456 789</li>
-          <li>Ubicación: Madrid, España</li>
+          <li>Email: 05victor.cepeda2@gmail.com</li>
+          <li>Teléfono: +34 622222175</li>
+          <li>Ubicación: Barcelona, España</li>
         </ul>
       </section>
 
       <section className="mb-6">
         <h2 className="text-xl font-semibold text-gray-700 mb-2">Experiencia Laboral</h2>
         <div className="mb-4">
-          <h3 className="text-lg font-medium text-gray-800">Desarrollador Frontend - TechCorp</h3>
-          <p className="text-gray-600">Enero 2020 - Presente</p>
+          <h3 className="text-lg font-medium text-gray-800">Desarrollador Frontend - MrBogart</h3>
+          <p className="text-gray-600">Enero 2024 - Presente</p>
           <ul className="list-disc list-inside text-gray-600 mt-2">
-            <li>Desarrollo de aplicaciones web utilizando React y TypeScript</li>
+            <li>Desarrollo de aplicaciones web</li>
             <li>Implementación de diseños responsive y accesibles</li>
             <li>Colaboración en equipo utilizando metodologías ágiles</li>
           </ul>
@@ -33,8 +33,8 @@ const BasicCV = () => {
       <section className="mb-6">
         <h2 className="text-xl font-semibold text-gray-700 mb-2">Educación</h2>
         <div>
-          <h3 className="text-lg font-medium text-gray-800">Grado en Ingeniería Informática</h3>
-          <p className="text-gray-600">Universidad Politécnica de Madrid, 2015 - 2019</p>
+          <h3 className="text-lg font-medium text-gray-800">Grado Superior de Informática DAW</h3>
+          <p className="text-gray-600">Instituto Monlau</p>
         </div>
       </section>
 
@@ -44,7 +44,7 @@ const BasicCV = () => {
           <li>JavaScript / TypeScript</li>
           <li>React</li>
           <li>HTML / CSS</li>
-          <li>Node.js</li>
+          
           <li>Git</li>
         </ul>
       </section>
