@@ -7,7 +7,7 @@ const BasicCV = () => {
         <h1 className="text-3xl font-bold text-gray-800">Juan Pérez</h1>
         <p className="text-gray-600">Desarrollador Web</p>
       </header>
-
+         <h1>test</h1>
       <section className="mb-6">
         <h2 className="text-xl font-semibold text-gray-700 mb-2">Información de Contacto</h2>
         <ul className="list-disc list-inside text-gray-600">
